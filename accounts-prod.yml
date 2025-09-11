@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to EazyBank accounts related production APIs "
   contactDetails:
     name: "Jane Cindy - Prod Lead"
     email: "{cipher}812655be6d66cf3bf83fc93ae71de853bfdad9ab1bd16151b491e8d95e9fc502a0ec85af383ed4108f76cc46c0123933"
