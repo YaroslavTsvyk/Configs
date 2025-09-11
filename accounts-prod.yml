@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related Prod APIs "
   contactDetails:
     name: "Jane Cindy - Prod Lead"
-    email: "jane@eazybank.com"
+    email: "{cipher}812655be6d66cf3bf83fc93ae71de853bfdad9ab1bd16151b491e8d95e9fc502a0ec85af383ed4108f76cc46c0123933"
   onCallSupport:
     - (777) 555-1234
     - (777) 523-1345
